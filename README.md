@@ -6,9 +6,9 @@
 
 ## 🧩 2025-10-28 — CSR vs Pre-Rendering
 
-- [Q1 — React의 CSR에서 빈 화면이 생기는 이유](./Logs/2025-10-28_CSR-vs-PreRendering/q1.md)  
-- [Q2 — Next의 사전렌더링은 SSR인가?](./Logs/2025-10-28_CSR-vs-PreRendering/q2.md)  
-- [Q3 — React의 CSR과 Next의 PreRendering은 정말 다른가?](./Logs/2025-10-28_CSR-vs-PreRendering/q3.md)
+- [Q1 — React의 CSR에서 빈 화면이 생기는 이유](./💻Logs/2025-10-28_CSR-vs-PreRendering/q1.md)  
+- [Q2 — Next의 사전렌더링은 SSR인가?](./💻Logs/2025-10-28_CSR-vs-PreRendering/q2.md)  
+- [Q3 — React의 CSR과 Next의 PreRendering은 정말 다른가?](./💻Logs/2025-10-28_CSR-vs-PreRendering/q3.md)
 
 ---
 
